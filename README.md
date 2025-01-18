@@ -1,1 +1,1 @@
-A backup of all my practice programs while studying Eric Matthes' "Python Crash Course, 3rd Edition" book.
+A backup of all my practice programs in studying "Python Crash Course, 3rd Edition" by Eric Matthes.
